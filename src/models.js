@@ -1,1 +1,1 @@
-export default [{"key":"hijiki","value":"public/models/hijiki/hijiki.model.json","inner":true},{"key":"tororo","value":"public/models/tororo/tororo.model.json","inner":true}];
+export default [{"key":"hijiki","value":"https://cdn.jsdelivr.net/gh/Eikanya/Live2d-model/%E6%88%98%E8%88%B0%E5%B0%91%E5%A5%B3/248_1/model.model.json","inner":true},{"key":"tororo","value":"public/models/tororo/tororo.model.json","inner":true}];
